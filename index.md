@@ -9,6 +9,6 @@ The goal of the Pai lab is to improve clinical decision-making by an understandi
 * software development for genomics data analysis and interpretation
 * epigenomics of disease
 
-Learn more about [our research interests](projects/).
+Learn more about [our research interests](projects).
 
 Team Lead: [Shraddha Pai, PhD](http://www.shraddhapai.com/)
