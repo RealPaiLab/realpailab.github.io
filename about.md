@@ -4,9 +4,10 @@ title: Contact
 permalink: /about
 ---
 
+Contact us by <a href="mailto:shraddha.pai@utoronto.ca">e-mail</a>. 
 
-We are part of the [Ontario Institute for Cancer Research](https://oicr.on.ca/)
+We are part of the [Ontario Institute for Cancer Research](https://oicr.on.ca/).
 <p>
-Address:<br>
+<b>Address:</b><br>
 MaRS Centre, 661 University Avenue<br>
 Toronto, Canada

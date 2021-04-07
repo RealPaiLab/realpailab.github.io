@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -50,8 +50,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.29778046"
-     inkscape:cx="603.98428"
+     inkscape:zoom="0.32918486"
+     inkscape:cx="818.88476"
      inkscape:cy="363.17109"
      inkscape:window-x="194"
      inkscape:window-y="0"
@@ -64,7 +64,7 @@
      height="695.96942"
      width="1641.1132"
      id="rect2155"
-     style="opacity:1;fill:#e3dedb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.71142244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="opacity:1;fill:#c8b7b7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.71142244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.95793915px;line-height:125%;font-family:Cinzel;-inkscape-font-specification:'Cinzel Bold';text-align:center;letter-spacing:3px;word-spacing:0px;text-anchor:middle;fill:#501616;fill-opacity:1;stroke:none;stroke-width:1.96776426px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
