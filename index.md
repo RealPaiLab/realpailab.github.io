@@ -13,3 +13,5 @@ The goal of the Pai lab is to improve clinical decision-making by understanding 
 Learn more about [our research interests](projects).
 
 Team Lead: [Shraddha Pai, PhD](http://www.shraddhapai.com/)
+
+<img src="/assets/images/OICR Logo_RGB_ENGLISH.png" width="20%">
