@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-image: /assets/images/banner5.png
+image: /assets/images/banner5_v2.png
 ---
 The goal of the Pai lab is to improve clinical decision-making by understanding of how genotype impacts phenotype. We work at the intersection of data science and genomics, using one or more of these approaches:
 * machine learning
@@ -13,3 +13,5 @@ The goal of the Pai lab is to improve clinical decision-making by understanding 
 Learn more about [our research interests](projects).
 
 Team Lead: [Shraddha Pai, PhD](http://www.shraddhapai.com/)
+
+<img src="/assets/images/OICR Logo_RGB_ENGLISH.png" width="20%">
