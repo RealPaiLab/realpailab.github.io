@@ -4,8 +4,11 @@ title: Publications
 permalink: /publications
 ---
 
-## Conferences
-<a href="/assets/docs/2021TRC_AIinML_KeyTakeaways.pdf" type="application/pdf">Open it here</a>
+## Conference Proceedings
+OICR 2021 Translational Research Conference<br>
+Panel discussion: **"Machine Learning from Multimodal Patient Data: How can we get from bench to bedside faster?"**<br>
+March 25-26,2021. ***Virtual conference.***<br>
+<a href="/assets/docs/2021TRC_AIinML_KeyTakeaways.pdf" type="application/pdf">Key Takeaways document</a>
 
 ## Research Publications
 * Pai S, Weber P, Isserlin I, Kaka H, Hui S, Shah MA, Nøhr AK, Baumbach J, GD Bader. (2021) [netDx: Software for building interpretable patient classifiers by multi-'omic data integration using patient similarity networks](https://f1000research.com/articles/9-1239). <i>F1000 Research</i> <b>9</b>:1239.
