@@ -4,7 +4,10 @@ title: Publications
 permalink: /publications
 ---
 
+## Conferences
+<a href="/assets/docs/2021TRC_AIinML_KeyTakeaways.pdf" type="application/pdf">Open it here</a>
 
+## Research Publications
 * Pai S, Weber P, Isserlin I, Kaka H, Hui S, Shah MA, Nøhr AK, Baumbach J, GD Bader. (2021) [netDx: Software for building interpretable patient classifiers by multi-'omic data integration using patient similarity networks](https://f1000research.com/articles/9-1239). <i>F1000 Research</i> <b>9</b>:1239.
 
 * Pai S, Hui S, Weber P, Narayan S, Whitley O, Li P, Labrie V, Baumbach J, Bader GD. (2021) [ms submitted]. [Multi-scale systems genomics analysis predicts pathways, cell types and drug targets involved in normative human cognition variation](https://www.biorxiv.org/content/10.1101/751933v3) bioRXiv preprint. 
